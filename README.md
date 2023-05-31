@@ -7,6 +7,10 @@ to do (気になること、やってみたいこと)、done (理解したこと
 
 # doing
 
+- 2023/06/01
+  - WebアプリフレームワークFlaskを試す
+    - [リポジトリ](https://github.com/raoshun/flask-tutorial)
+
 # done
 
 - 2023/05/31
