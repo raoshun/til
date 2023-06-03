@@ -13,6 +13,9 @@ to do (気になること、やってみたいこと)、done (理解したこと
 - [ChatGPTを使って爆速でプレゼン資料を作る - Qiita](https://qiita.com/ydty/items/39d39ad5d5b6448d55fc?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=5eff1ee08e-Qiita_newsletter_562_04_19_2023&utm_medium=email&utm_term=0_e44feaa081-5eff1ee08e-36057521)
 - [【ChatGPT】個人的お気に入りプロンプトまとめ - Qiita](https://qiita.com/ryome/items/6b04cfdc25a2559902c8?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=5eff1ee08e-Qiita_newsletter_562_04_19_2023&utm_medium=email&utm_term=0_e44feaa081-5eff1ee08e-36057521)
 - [VS Code効率爆上げショートカット集 - Qiita](https://qiita.com/m_nai/items/629651bae32eca243d4e?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=5eff1ee08e-Qiita_newsletter_562_04_19_2023&utm_medium=email&utm_term=0_e44feaa081-5eff1ee08e-36057521)
+- [君はVS Codeのデバッグの知られざる機能について知っているか - Qiita](https://qiita.com/_ken_/items/c5aa4841be74b06530b4?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=396e1572bf-Qiita_newsletter_568_05_31_2023&utm_medium=email&utm_term=0_e44feaa081-396e1572bf-36057521)
+- [Dash Documentation & User Guide | Plotly](https://dash.plotly.com/)
+- [Dashでデータを可視化するダッシュボードを作成する手順（1.レイアウト編） | sakizo blog](https://sakizo-blog.com/103/)
 
 # doing
 
